@@ -1,0 +1,30 @@
+# Q: Who is eligible to apply for the “Financial Assistance to Disabled Students Pursuing (10th, 11th, 12th Equivalent Exams)” scheme in Kerala?
+# A: Differently-abled students who are residents of Kerala and have a disability of 40% or more are eligible to apply. The scheme is open to both APL and BPL categories.
+# Ans by model : The differently-abled students with 40% or more disability, who are residents of Kerala State, are eligible to apply for the “Financial Assistance to Disabled Students Pursuing (10th, 11th, 12th Equivalent Exams)” scheme. 
+#                They can apply for SSLC, +1, +2 equivalent courses implemented by State Literacy Mission.
+# CORRECT
+
+
+# Q: What financial support does the ICMR Post Doctoral Fellowship (PDF) offer to selected fellows?
+# A: Selected fellows receive ₹65,000 per month plus HRA and NPA (if applicable), along with a contingency grant of ₹3,00,000 per annum. 25% of the contingency can be used for national travel related to the research.
+# Ans by model: The ICMR Post Doctoral Fellowship (PDF) provides selected fellows with a consolidated monthly fellowship of Rs. 65,000, along with house rent allowance. 
+#               Additionally, fellows may receive contingency grants and research grants to support their work.
+# CORRECT
+
+
+# Q: What are the main objectives of the Tool Kit Grant for Traditional Handicrafts Experts scheme in Kerala?
+# A: The scheme aims to promote sustainable self-employment, raise awareness about adopting modern tools, and support traditional OBC craftsmen with training and grants for modern toolkits.
+# Ans by model:- The model returned random garbled text.
+# INCORRECT
+
+
+# Q: What are the main objectives of the Tool Kit Grant for Traditional Handicrafts Experts scheme in Kerala?
+# A: The scheme aims to promote sustainable self-employment, raise awareness about adopting modern tools, and support traditional OBC craftsmen with training and grants for modern toolkits.
+# Ans by model:- The model returned random garbled text.
+# INCORRECT
+
+
+# Q: What is the amount of scholarship granted under the Additional Scholarship Scheme for OBC students from Andaman & Nicobar Islands pursuing higher education?
+# A: Eligible students receive ₹1,000 per month for a duration of 10 months in an academic year.
+# Ans by model:- The amount of scholarship granted under the Additional Scholarship Scheme for OBC students from Andaman & Nicobar Islands pursuing higher education is ₹10,000 per academic year.
+# CORRECT
