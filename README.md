@@ -136,7 +136,3 @@ The `CorrectiveRAGWorkflow` follows these steps:
 *   **Vector Store:** Replace `PineconeVectorStore` with other supported vector stores.
 *   **Prompts:** Adjust the `DEFAULT_RELEVANCY_PROMPT_TEMPLATE` and `DEFAULT_TRANSFORM_QUERY_TEMPLATE` for different LLM behaviors or specific needs.
 *   **Retriever:** Modify retriever parameters (e.g., `similarity_top_k`) in the `index.as_retriever(**retriever_kwargs)` call.
-
-## License
-
-[Specify your license here, e.g., MIT License]
